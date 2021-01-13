@@ -13,6 +13,8 @@ Copy paste link to add Bootstrap CDN to your project:
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 ```
 
+Link to Bootstrap V4 docs for reference: https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
 ## Added Challenge
 If you have experience with Bootstrap and won't find praciticing via a lab helpful, other recommended activities:
   - Look at the new code/features in Bootstrap v5 (https://getbootstrap.com/docs/5.0/getting-started/introduction/)
